@@ -3,7 +3,7 @@ function App() {
   return (
     <div className="App">
 
-      TodoApp
+      TodoApp From React
     </div>
   );
 }

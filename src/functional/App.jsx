@@ -1,5 +1,6 @@
 import React from 'react'
-import Input from './input'
+import Input from './Input'
+
 import List from './List'
 
 export default function App() {
